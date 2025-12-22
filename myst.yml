@@ -30,3 +30,4 @@ site:
   options:
     favicon: misc/dna_icon.jpg
     logo: misc/dna_icon.jpg
+    logo_text: LR Phasing/Assembly
