@@ -1,0 +1,36 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 0a796942-13f8-1f8f-882c-1b7ce519bda2
+  title: Inversion Simulations
+  description: The code and data exploration of the H. sapien linked read assembly and phasing benchmarks
+  authors: 
+    - name: Pavel Dimens
+      orcid: 0000-0003-3823-0373
+      affiliations:
+        - id: cornell
+          institution: Cornell University
+          department: Biotechnology
+    - name: Jacob Landis
+      orcid: 0000-0002-5631-5365
+      affiliations:
+        - id: cornell
+          institution: Cornell University
+          department: Biotechnology
+    - name: Paul Mann
+      affiliations:
+        - id: cornell
+          institution: Cornell University
+          department: Biotechnology
+  github: pdimens/PhasingAssemblySims
+  toc:
+    - file: README.md
+    - file: simulate_genotypes/simulate_trios.r.ipynb
+site:
+  template: book-theme
+  actions:
+    - title: Therkildsen Lab
+      url: https://www.genomicsinnovation.cornell.edu/
+  options:
+    favicon: misc/dna_icon.png
+    logo: misc/dna_icon.png
