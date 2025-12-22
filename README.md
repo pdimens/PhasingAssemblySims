@@ -1,3 +1,9 @@
+---
+site:
+  hide_outline: true
+edit_url: null
+---
+
 # Linked-Read Assembly and Phasing Performance Benchmarks
 This repository and associated MyST-built website contains the code and work of the linked-read benchmark for phasing and assembly.
 

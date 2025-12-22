@@ -16,8 +16,8 @@ project:
       affiliations:
         - id: cornell
     - name: Paul Mann
-  affiliations:
-    - id: cornell
+      affiliations:
+        - id: cornell
   github: pdimens/PhasingAssemblySims
   toc:
     - file: README.md
