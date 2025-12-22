@@ -21,7 +21,7 @@ project:
   github: pdimens/PhasingAssemblySims
   toc:
     - file: README.md
-    - file: simulate_genotypes/simulate_trios.r.ipynb
+    - file: simulate_genotypes/simulate_pedigree.ipynb
 site:
   template: book-theme
   actions:
