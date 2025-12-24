@@ -7,15 +7,18 @@ project:
   authors: 
     - name: Pavel Dimens
       orcid: 0000-0003-3823-0373
+      github: pdimens
       affiliations:
         - id: cornell
           institution: Cornell University
           department: Biotechnology
     - name: Jacob Landis
       orcid: 0000-0002-5631-5365
+      github: jblandis
       affiliations:
         - id: cornell
     - name: Paul Mann
+      github: Programmeratlarge
       affiliations:
         - id: cornell
   github: pdimens/PhasingAssemblySims
