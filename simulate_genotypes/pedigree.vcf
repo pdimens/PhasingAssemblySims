@@ -1,11 +1,11 @@
 ##fileformat=VCFv4.2
 ##FILTER=<ID=PASS,Description="All filters passed">
 ##source=PhasingAssemblySims - Pavel Dimens
-##contig=<ID=NC_000001.11,length=252068378>
-##contig=<ID=NC_000002.12,length=245220949>
-##contig=<ID=NC_000003.12,length=200774254>
-##contig=<ID=NC_000004.12,length=192592237>
-##contig=<ID=NC_000005.10,length=183807488>
+##contig=<ID=NC_000001.11,length=248956422>
+##contig=<ID=NC_000002.12,length=242193529>
+##contig=<ID=NC_000003.12,length=198295559>
+##contig=<ID=NC_000004.12,length=190214555>
+##contig=<ID=NC_000005.10,length=181538259>
 ##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
 ##INFO=<ID=AC,Number=A,Type=Integer,Description="Allele count in genotypes">
 ##INFO=<ID=AN,Number=1,Type=Integer,Description="Total number of alleles in called genotypes">

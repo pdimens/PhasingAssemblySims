@@ -25,6 +25,7 @@ project:
   toc:
     - file: README.md
     - file: simulate_genotypes/simulate_pedigree.ipynb
+    - file: reference_assembly/setup_reference.ipynb
     - file: simulate_genotypes/generate_vcf.ipynb
 site:
   template: book-theme
