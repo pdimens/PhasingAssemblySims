@@ -5,6 +5,9 @@ edit_url: null
 ---
 
 # Linked-Read Assembly and Phasing Performance Benchmarks
+
+:::{div}
+:class: col-page-right
 This repository and associated MyST-built website contains the code and work of the linked-read benchmark for phasing and assembly.
 
 ## Goals
@@ -34,3 +37,4 @@ from those genotypes. Jacob is on the _Assembly Team_, using those linked reads 
 and Paul is on the _Phasing Team_, investigating the phasing performance of those data (hence the parent-offspring genotypes with known
 phases). As we work through this, the GitHub Pages site associated with this repository will be updated with our progress (in the form
 of new pages with code, figures, tables, etc).
+:::
