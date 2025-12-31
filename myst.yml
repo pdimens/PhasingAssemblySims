@@ -24,9 +24,9 @@ project:
   github: pdimens/PhasingAssemblySims
   toc:
     - file: README.md
-    - file: simulate_genotypes/simulate_pedigree.ipynb
-    - file: reference_assembly/setup_reference.ipynb
     - file: simulate_genotypes/setup_vcf.ipynb
+    - file: reference_assembly/setup_reference.ipynb
+    - file: simulate_genotypes/simulate_pedigree.ipynb
 site:
   template: book-theme
   actions:
