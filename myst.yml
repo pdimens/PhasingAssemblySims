@@ -33,6 +33,6 @@ site:
     - title: Genomics Innovation
       url: https://www.genomicsinnovation.cornell.edu/
   options:
-    favicon: misc/dna_icon.jpg
-    logo: misc/dna_icon.jpg
+    favicon: misc/dna_icon.png
+    logo: misc/dna_icon.png
     logo_text: LR Phasing/Assembly
