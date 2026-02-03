@@ -18,6 +18,7 @@ project:
       affiliations:
         - id: cornell
     - name: Paul Munn
+      orcid: 0000-0001-9316-0879
       github: Programmeratlarge
       affiliations:
         - id: cornell
